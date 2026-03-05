@@ -1,2 +1,2 @@
-This is my first respository 
-author-gouri zade
+This is my first respository.
+author-gouri zade. 
